@@ -13,3 +13,7 @@ class Main {
     System.out.println(cients/25);
   }
 }
+// if(a<10){
+//   cents = a;
+// else {
+//  cents = a%100;
