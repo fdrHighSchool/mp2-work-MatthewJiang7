@@ -3,10 +3,10 @@
 
 1. *In your own words*, discuss what each String method does:
   * `.substring(a)`
-    * **YOUR WRITING HERE**
+    * It returns a substring starting from a to the end of the String
 
   * `.substring(a, b)`
-    * **YOUR WRITING HERE**
+    * Returns a substring starting from a and ending at and not including b
 
   * `.indexOf(str)`
     * **YOUR WRITING HERE**
