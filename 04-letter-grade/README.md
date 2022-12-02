@@ -13,4 +13,4 @@
 
 
 3. Discuss how you would make sure grades that are an F are not mislabeled as F- or F+ (eg: 49 -> F+ and 52 -> F-)
-  * If it's F, don't add the +, - or anything lower than an F- wi have -
+  * If it's F, don't add the +, - or anything lower than an F- will have -
