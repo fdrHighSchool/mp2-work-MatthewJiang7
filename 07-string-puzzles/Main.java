@@ -63,7 +63,6 @@ class Main {
       if(str6.substring(i, i+1).equals("1") || str6.substring(i, i+1).equals("2") || str6.substring(i, i+1).equals("3") || str6.substring(i, i+1).equals("4") || str6.substring(i, i+1).equals("5") || str6.substring(i, i+1).equals("6") || str6.substring(i, i+1).equals("7") || str6.substring(i, i+1).equals("8") || str6.substring(i, i+1).equals("9")) {
         sum += Integer.parseInt(str6.substring(i,i+1));
       }
-    }
     return sum;
   }
 
