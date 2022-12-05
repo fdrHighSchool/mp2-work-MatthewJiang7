@@ -8,10 +8,10 @@
 000111222333444555666777888999
 ```
   * for(i=0; i<10; i++) {
-     for(t=0; t<3; t++) {
-     System.out.print(i);
-     }
-    }
+  *   for(t=0; t<3; t++) {
+  *   System.out.print(i);
+  *   }
+  *  }
 
 
 2. Write a plan for the following output:
@@ -23,9 +23,9 @@
 999998888877777666665555544444333332222211111
 ```
   * for(i=1; i<10; i++) {
-     int num = 9;
-     for(t=0; t<5; t++) {
-      System.out.print(num);
-     }
-     num = num-1;
-    }
+  *   int num = 9;
+  *   for(t=0; t<5; t++) {
+  *    System.out.print(num);
+  *   }
+  *   num = num-1;
+  * }
