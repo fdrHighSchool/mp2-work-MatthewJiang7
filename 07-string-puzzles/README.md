@@ -9,10 +9,10 @@
     * Returns a substring starting from a and ending at and not including b
 
   * `.indexOf(str)`
-    * **YOUR WRITING HERE**
+    * show where the string str is in a string.
 
   * `.equals(str)`
-    * **YOUR WRITING HERE**
+    * Check if a string is equals to str.
 
 
 2. *In your own words*, discuss what the following `for` loop accomplishes for `String s`:
@@ -21,4 +21,4 @@ for(int i = 0; i < s.length(); i++) {
       // DO STUFF
 }
 ```
-  * **YOUR WRITING HERE**
+  * if i is less than the length of string s, then it keeps repeating until false.
